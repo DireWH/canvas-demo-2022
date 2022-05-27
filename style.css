@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#xxx {
+    background: white;
+    display: block;
+}
+
+#eraser {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+div {
+    width: 2px;
+    height: 2px;
+    background: white;
+    position: absolute;
+    border-radius: 1px;
+    left: 0;
+    top: 0;
+    display: none;
+}
